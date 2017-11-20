@@ -1,4 +1,4 @@
-## Follow along at: [https://maptimela.github.io/python-bs4-qgis](https://maptimela.github.io/python-bs4-qgis)
+## Follow along at: [https://bondah.github.io/python-bs4-qgis](https://bondah.github.io/python-bs4-qgis)
 
 # Objective
 In this tutorial we will learn: 
